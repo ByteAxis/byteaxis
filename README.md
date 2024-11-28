@@ -5,7 +5,6 @@
   <img src="byte axis-white & red.png" alt="ByteAxis Logo" width="200"/>
 </a>
 
-  
   [![UK Based](https://img.shields.io/badge/UK%20Based-Manchester-blue)](https://thebyteaxis.com)
   [![Custom Software](https://img.shields.io/badge/Custom-Software-green)](https://thebyteaxis.com/services)
   [![Web Development](https://img.shields.io/badge/Web-Development-orange)](https://thebyteaxis.com/services)
@@ -51,11 +50,11 @@ Create powerful web experiences:
 
 ### 📱 Mobile App Development
 Native and cross-platform mobile solutions:
-- iOS development
-- Android development
-- Cross-platform apps
-- React Native & Flutter
-- Mobile app optimization
+- iOS and Android development
+- Cross-platform applications
+- Mobile-first solutions
+- Performance optimization
+- User experience focus
 
 ## 💡 Featured Solutions
 
@@ -73,48 +72,28 @@ Native and cross-platform mobile solutions:
 - **API Integration**: Seamless third-party service integration
 - **Progressive Web Apps**: Mobile-first web applications
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Expertise
 
-### Frontend
-- React.js
-- Next.js
-- Vue.js
-- Angular
-- TypeScript
+### Development
+- Modern Frontend Technologies
+- Robust Backend Solutions
+- Cross-Platform Mobile Development
+- Progressive Web Applications
+- Enterprise Software Solutions
 
-### Backend
-- Node.js
-- Python
-- .NET
-- Java
-- PHP
+### Automation & Data
+- Advanced Web Scraping Tools
+- Data Processing & Analytics
+- Business Process Automation
+- Workflow Optimization
+- Custom Bot Development
 
-### Mobile
-- React Native
-- Flutter
-- Swift
-- Kotlin
-
-### Automation & Scraping
-- Python (Selenium, BeautifulSoup)
-- Node.js (Puppeteer)
-- Browserless
-- Scrapy
-- Playwright
-
-### Database
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
-- Elasticsearch
-
-### Cloud & DevOps
-- AWS
-- Azure
-- Google Cloud
-- Docker
-- Kubernetes
+### Infrastructure
+- Cloud Solutions
+- Database Management
+- DevOps & CI/CD
+- Security Implementation
+- System Architecture
 
 ## 📈 Success Stories
 
